@@ -50,7 +50,7 @@
 ### 🚀 Current Focus
 ✨ Building AI-powered & GenAI applications  
 ✨ Experimenting with LLM-based autonomous agents  
-✨ Participating in hackathons & competitive programming  
+✨ Participating in hackathons & competitive programming.
 
 ---
 

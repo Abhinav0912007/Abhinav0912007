@@ -4,7 +4,7 @@
 <p align="center">
 🎓 2nd Year Computer Engineering Student <br>
 🏫 St. Vincent Pallotti College of Engineering <br>
-🏆 1× Hackathon Winner <br><br>
+🏆 2× Hackathon Winner <br><br>
 🤖 Passionate about Artificial Intelligence & Machine Learning <br>
 🧠 Exploring Generative AI, LLMs & Autonomous Agentic AI Systems <br>
 ⚡ Building intelligent, real-world problem-solving solutions
